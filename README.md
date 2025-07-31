@@ -33,7 +33,7 @@
 <body>
 
   <h1>Çankırı Cepte - Hesap Silme Talebi</h1>
-  <p><strong>Son Güncelleme:</strong> 27 Temmuz 2025</p>
+  <p><strong>Son Güncelleme:</strong> 31 Temmuz 2025</p>
 
   <hr>
 
